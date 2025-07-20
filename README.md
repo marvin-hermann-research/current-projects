@@ -8,7 +8,7 @@ Each project resides in a dedicated repository and is under active development, 
 
 ## 🚧 Active Repositories
 
-- [ros-learning-project](https://github.com/your-username/ros-learning-project)  
+- [ros-learning-project](https://github.com/marvin-hermann-research/ros2-architecture-lab)  
   A robotics learning project using ROS2, Gazebo, and Python for simulation and control.
 
 - (More to be added)
