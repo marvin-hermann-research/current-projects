@@ -6,7 +6,7 @@ Each project resides in a dedicated repository and is under active development, 
 
 ---
 
-## 🚧 Active Repositories
+## Active Repositories
 
 - [ros-learning-project](https://github.com/marvin-hermann-research/ros2-architecture-lab)  
   A robotics learning project using ROS2, Gazebo, and Python for simulation and control.
@@ -15,7 +15,7 @@ Each project resides in a dedicated repository and is under active development, 
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 
 Each project aims to balance:
 
@@ -26,7 +26,7 @@ Each project aims to balance:
 
 ---
 
-## 🌐 Contribution
+## Contribution
 
 While these projects are personal, I welcome feedback, suggestions, or collaboration requests.
 
