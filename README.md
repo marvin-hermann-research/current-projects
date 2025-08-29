@@ -8,9 +8,11 @@ Each project resides in a dedicated repository and is under active development, 
 
 ## Active Repositories
 
-- [Modular Behaviour Tree Architecture for ROS2](https://github.com/marvin-hermann-research/ros2-architecture-lab)  
-  A research-oriented framework for robotic locomotion in ROS2, integrating Behaviour Trees with a distributed sensor–actuator architecture.
-- (More to be added)
+#### [Modular Behaviour Tree Architecture for ROS2](https://github.com/marvin-hermann-research/ros2-architecture-lab)  
+A research-oriented framework for robotic locomotion in ROS2, integrating Behaviour Trees with a distributed sensor–actuator architecture.
+
+#### [Pseudo-Neuromorphic Sensor Framework](https://github.com/marvin-hermann-research/pseudo-neuromorphic-sensor-framework.git)
+A lightweight framework for building pseudo-neuromorphic sensors on low-cost microcontrollers such as the Arduino Nano.
 
 ---
 
